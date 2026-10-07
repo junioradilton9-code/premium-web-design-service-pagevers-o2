@@ -3,7 +3,7 @@
 Landing page premium de venda de sites, lojas virtuais e agentes de IA, com robô de atendimento
 que explica os serviços, monta o pedido e encaminha o cliente direto para o WhatsApp.
 
-🔗 **Demo:** https://www.adiltondev.com.br
+
 
 ---
 
